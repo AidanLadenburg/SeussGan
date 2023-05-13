@@ -11,4 +11,4 @@ https://user-images.githubusercontent.com/43151719/216491654-d46b85f1-aee6-4d7e-
 
 
 
-*Made this before I really knew how to do good data processing/cleaning so I wouldn't recomend using the provided dataset!
+*Made this before I really knew how to do good data processing/cleaning so I wouldn't recomend using the provided dataset without further cleaning!
